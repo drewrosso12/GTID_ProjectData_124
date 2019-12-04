@@ -1,0 +1,32 @@
+      Year         Country      NUTS2_Code    Econ_Freedom        Pop          
+ Min.   :2007   UK     :407   AT12   :  11   Min.   :53.20   Min.   :   26923  
+ 1st Qu.:2009   DE     :363   AT21   :  11   1st Qu.:63.50   1st Qu.:  913078  
+ Median :2012   FR     :297   AT22   :  11   Median :70.10   Median : 1574330  
+ Mean   :2012   ES     :209   AT31   :  11   Mean   :68.92   Mean   : 1914830  
+ 3rd Qu.:2015   IT     :198   AT32   :  11   3rd Qu.:73.80   3rd Qu.: 2357113  
+ Max.   :2017   EL     :143   AT33   :  11   Max.   :82.60   Max.   :12152461  
+ NA's   :1      (Other):991   (Other):2542   NA's   :1       NA's   :26        
+ GDP_Millions_Euro Total_Household_Income Tourism_NightStays Flight_Arrivals
+ Min.   :  1086    Min.   :   621.6       Min.   :       0   Min.   :    0  
+ 1st Qu.: 18885    1st Qu.: 12338.2       1st Qu.: 2085628   1st Qu.:  242  
+ Median : 37200    Median : 26326.5       Median : 4049160   Median : 1027  
+ Mean   : 52342    Mean   : 36443.0       Mean   : 5910933   Mean   : 3354  
+ 3rd Qu.: 65813    3rd Qu.: 46969.7       3rd Qu.: 7094788   3rd Qu.: 3299  
+ Max.   :709197    Max.   :371837.5       Max.   :37388076   Max.   :50777  
+ NA's   :347       NA's   :370            NA's   :232        NA's   :309    
+ Year_PostBudget     GDP_log          Pop_log        Wages_log      TourNights_log 
+ Min.   :0.0000   Min.   : 6.991   Min.   :10.20   Min.   : 6.434   Min.   : 0.00  
+ 1st Qu.:0.0000   1st Qu.: 9.846   1st Qu.:13.72   1st Qu.: 9.421   1st Qu.:14.55  
+ Median :0.0000   Median :10.524   Median :14.27   Median :10.178   Median :15.21  
+ Mean   :0.1112   Mean   :10.430   Mean   :14.15   Mean   :10.048   Mean   :15.14  
+ 3rd Qu.:0.0000   3rd Qu.:11.095   3rd Qu.:14.67   3rd Qu.:10.757   3rd Qu.:15.77  
+ Max.   :1.0000   Max.   :13.472   Max.   :16.31   Max.   :12.826   Max.   :17.44  
+ NA's   :1        NA's   :347      NA's   :26      NA's   :370      NA's   :232    
+  Arrivals_log   
+ Min.   : 0.000  
+ 1st Qu.: 5.493  
+ Median : 6.935  
+ Mean   : 6.694  
+ 3rd Qu.: 8.102  
+ Max.   :10.835  
+ NA's   :309     
